@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like Developing Mobile Applications, <br>Currently, I'm Using React Native to Develop Apps for Android & IOS  <br>I've a BSc in Computer Science,<br>Also, I'm an Information Technology Institute ( ITI ) Graduate in Frontend & Cross-Platform Mobile Development<br>
+I like Developing Mobile Applications, <br>Started Developing Native Apps using Java / Xml in Android Studio for 1 year.<br>Currently, I'm Using React Native to Develop Apps for Android & IOS  <br>I've a BSc in Computer Science,<br>Also, I'm an Information Technology Institute ( ITI ) Graduate in Frontend & Cross-Platform Mobile Development<br>
 
 
 ## 🌐 Socials:
