@@ -1,6 +1,5 @@
 # 💫 About Me:
-:iphone:	I like Developing Mobile Applications, <br>Started Developing Native Apps using Java / Xml in Android Studio for 1 year.<br>Currently, I'm Using React Native to Develop Apps for Android & IOS.  <br>I've a BSc in Computer Science,<br>Also, I'm an Information Technology Institute ( ITI ) Graduate in Frontend & Cross-Platform Mobile Development<br>
-
+&nbsp;:iphone:&emsp;&nbsp;I like Developing Mobile Applications, <br>:tipping_hand_man:&emsp;Started Developing Native Apps using Java / Xml in Android Studio for 1 year.<br>:man_technologist:&emsp;Currently, I'm Using React Native to Develop Apps for Android & IOS.  <br>&nbsp;:man_student:&emsp;BSc in Computer Science &amp; Information Technology Institute ( ITI ) Graduate in Frontend & Cross-Platform Mobile Development<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudbadawy4199)
