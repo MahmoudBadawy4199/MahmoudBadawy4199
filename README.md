@@ -18,4 +18,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudBadawy4199&label=Profile%20views&color=8395a7&style=for-the-badge" alt="MahmoudBadawy" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudBadawy4199&theme=transparent&show_icons=true)
+![](https://hit.yhype.me/github/profile?user_id=29329827)
