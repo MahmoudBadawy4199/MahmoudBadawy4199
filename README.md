@@ -4,7 +4,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 Started Developing **Native Android Apps using Java / Xml in Android Studio** for 1 year, then **Frontend** for 4 months.
 - 📖 **BSc** in Computer Science &amp; **Information Technology Institute ( ITI ) Graduate** in Frontend & Cross-Platform Mobile Development.
-- ⚡ Currently, I'm **Developing** my Own App [**Molly**](https://github.com/MahmoudBadawy4199/Molly) Using **React Native / Typescript**, **Designed** it Using **Figma**, Have a [**Look**](https://www.figma.com/file/UJW0fF5TQ4EoOTrFP11zLH/Molly?node-id=343%3A1529). 👀
+- ⚡ Just **Published** My Own Mobile Application On **Google Play Store** [**"Molly - Valorant Lineups"**](https://play.google.com/store/apps/details?id=com.mahmoudbadawy.molly) Using **React Native / Typescript / Redux Toolkit**, I also **Designed** it Using **Figma**, Have a [**Look**](https://www.figma.com/file/UJW0fF5TQ4EoOTrFP11zLH/Molly?node-id=343%3A1529). 👀
 
 
 ## 🌐 Connet With Me:
