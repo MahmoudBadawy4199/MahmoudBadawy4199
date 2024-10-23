@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></br>I'm Mahmoud Badawy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h1>
+<h1 align="center">Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></br>I'm Mahmoud Ragab <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h1>
 
 - 👨🏻‍💻 I'm a **React Native Mobile Developer** With Experience in Native Android &amp; Frontend Web Development.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
