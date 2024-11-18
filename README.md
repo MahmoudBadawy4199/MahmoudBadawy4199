@@ -1,10 +1,10 @@
 <h1 align="center">Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></br>I'm Mahmoud Ragab <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h1>
 
-- 👨🏻‍💻 I'm a **React Native Mobile Developer** With Experience in Native Android &amp; Frontend Web Development.
+- 👨🏻‍💻 I'm a **React Native Mobile Developer** With Previous Experience in Native Android &amp; Frontend Web Development.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Started Developing **Native Android Apps using Java / Xml in Android Studio** for 1 year, then **Frontend** for 4 months.
-- 📖 **BSc** in Computer Science &amp; **Information Technology Institute ( ITI ) Graduate** in Frontend & Cross-Platform Mobile Development.
-- ⚡ Just **Published** My Own Mobile Application On **Google Play Store** [**"Molly - Valorant Lineups"**](https://play.google.com/store/apps/details?id=com.mahmoudbadawy.molly) Using **React Native / Typescript / Redux Toolkit**, I also **Designed** it Using **Figma**, Have a [**Look**](https://www.figma.com/file/UJW0fF5TQ4EoOTrFP11zLH/Molly?node-id=343%3A1529). 👀
+- 💻 Started Developing **Native Android Apps using Java / Xml in Android Studio** for 1 year, then **Frontend** for 4 months, currently i'm using **React Native** for 2 years.
+- 📖 **BSc** in Computer Science &amp; **Information Technology Institute ( ITI ) Graduate** in Frontend & Cross-Platform Mobile Development, Nowadays i'm doing my **Masters** in **Cloud Computing** in Warsaw School of Computer Science.
+- ⚡ Created my own Mobile Application [**"Molly - Valorant Lineups"**](https://play.google.com/store/apps/details?id=com.mahmoudbadawy.molly) Using **React Native / Typescript / Redux Toolkit**, I also **Designed** it Using **Figma**, Have a [**Look**](https://www.figma.com/file/UJW0fF5TQ4EoOTrFP11zLH/Molly?node-id=343%3A1529)👀, I puplished it on **Google Play Store** for 1 year then now its off the store .
 
 
 ## 🌐 Connet With Me:
